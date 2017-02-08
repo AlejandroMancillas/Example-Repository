@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\AssesmentWork\Meliora\Meliora\bin\Debug\Meliora.exe.config
+C:\Users\Alex\Desktop\AssesmentWork\Meliora\Meliora\bin\Debug\Meliora.exe
+C:\Users\Alex\Desktop\AssesmentWork\Meliora\Meliora\bin\Debug\Meliora.pdb
+C:\Users\Alex\Desktop\AssesmentWork\Meliora\Meliora\obj\Debug\Meliora.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\AssesmentWork\Meliora\Meliora\obj\Debug\Meliora.exe
+C:\Users\Alex\Desktop\AssesmentWork\Meliora\Meliora\obj\Debug\Meliora.pdb
